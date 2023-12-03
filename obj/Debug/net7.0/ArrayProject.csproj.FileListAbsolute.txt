@@ -1,0 +1,14 @@
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\bin\Debug\net7.0\ArrayProject.exe
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\bin\Debug\net7.0\ArrayProject.deps.json
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\bin\Debug\net7.0\ArrayProject.runtimeconfig.json
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\bin\Debug\net7.0\ArrayProject.dll
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\bin\Debug\net7.0\ArrayProject.pdb
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.dll
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\refint\ArrayProject.dll
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.pdb
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ArrayProject.genruntimeconfig.cache
+C:\Users\Jordan\Desktop\Csharparrayproject\ArrayProject\obj\Debug\net7.0\ref\ArrayProject.dll
